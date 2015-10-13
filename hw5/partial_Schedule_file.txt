@@ -1,0 +1,7 @@
+Adrian    C12:John    C12:John    C7:Jean     C7:Jean       N         
+Alan      C1:Jack     C1:Jack     C1:Jack       Y           N         
+Albert    C5:Jane     C5:Jane     C5:Jane       Y           N         
+Alex        N         C3:James    C3:James    C3:James      N         
+Alexis      N           N           Y           Y           N         
+Alice     C8:Jim      C8:Jim        N           Y           N         
+Amy         N         C10:Joanne  C10:Joanne  C10:Joanne    N         

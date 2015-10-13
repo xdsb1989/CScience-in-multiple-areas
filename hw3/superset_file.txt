@@ -1,0 +1,9 @@
+for customer 0,he has these superset
+user 1,the similarity is 4.2427
+user 3,the similarity is 5.6570
+for customer 4,he has these superset
+user 9,the similarity is 3.0001
+for customer 6,he has these superset
+user 5,the similarity is 2.0001
+user 7,the similarity is 3.0001
+user 9,the similarity is 4.0001

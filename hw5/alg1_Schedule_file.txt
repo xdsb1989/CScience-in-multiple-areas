@@ -1,0 +1,10 @@
+Adrian    C12:John    C12:John      Y         C9:Jim      C9:Jim      
+Alan      C11:Joe     C6:Jasmine  C6:Jasmine    Y         C4:James    
+Albert      Y         C3:James    C3:James    C3:James      N         
+Alex        N         C10:Joanne  C10:Joanne  C10:Joanne    Y         
+Alexis      N           N         C7:Jean     C7:Jean       N         
+Alice     C8:Jim      C8:Jim        N           Y           Y         
+Amy         N           Y         C13:Julie   C13:Julie   C13:Julie   
+Andrew      Y           N           N           N           N         
+Andy      C5:Jane     C5:Jane     C5:Jane       N           N         
+Anna      C1:Jack     C1:Jack     C1:Jack       Y         C2:Jack     

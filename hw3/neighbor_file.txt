@@ -1,0 +1,22 @@
+for customer 000,he has these top_2 neighbors
+user 003,the similarity is 1.3334
+user 001,the similarity is 1.0000
+for customer 001,he has these top_1 neighbors
+user 009,the similarity is 3.0001
+for customer 002,he has these top_1 neighbors
+user 009,the similarity is 2.0001
+for customer 003,he has these top_2 neighbors
+user 007,the similarity is 1.2000
+user 005,the similarity is 0.9676
+for customer 004,he has these top_1 neighbors
+user 009,the similarity is 3.0001
+for customer 005,he has these top_1 neighbors
+user 009,the similarity is 2.0001
+for customer 006,he has these top_2 neighbors
+user 009,the similarity is 1.3334
+user 007,the similarity is 1.0000
+for customer 007,he has these top_1 neighbors
+user 009,the similarity is 3.0001
+for customer 009,he has these top_2 neighbors
+user 005,the similarity is 0.8000
+user 003,the similarity is 0.8000

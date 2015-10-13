@@ -1,0 +1,20 @@
+Jack, C1 Mon 3, C2 Fri 1
+James, C3 Tue 3, C4 Fri 1
+Jane, C5 Mon 3
+Jasmine, C6 Tue 2
+Jean, C7 Wed 2
+Jim, C8 Mon 2, C9 Thu 2
+Joanne, C10 Tue 3
+Joe, C11 Mon 1
+John, C12 Mon 2
+Julie, C13 Wed 3
+*****
+Adrian, Mon 4
+Alan, Mon 4
+Albert, Mon 4
+Alex, Tue 3
+Alexis, Wed 2
+Alice, Mon 2, Thu 1
+Amy, Tue 3
+
+

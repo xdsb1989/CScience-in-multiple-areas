@@ -1,0 +1,7 @@
+John, C1 Mon 3
+Jane, C2 Mon 2, C3 Thu 2
+Jack, C4 Wed 2
+*****
+Alice, Mon 4
+Andy, Mon 2, Thu 2
+Amy, Tue 2

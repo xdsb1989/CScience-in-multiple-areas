@@ -1,0 +1,3 @@
+for customer 8,he has these disjoint set:
+user 4.
+user 9.

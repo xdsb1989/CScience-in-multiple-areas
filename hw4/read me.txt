@@ -1,0 +1,63 @@
+Read Me
+
+(A)    Using the windows7 operator system,and compile the program on Dec-Cpp platform.If you can use the Dev-Cpp, open the Dev-Cpp and click file->open project or file->choose the existed C source code.
+      If you are the first time to use Dev-Cpp,click tools->complier options->directions,and then add the absolute path C:\MinGW\bin to Binaries,pop it at the first position;add the absolute path C:\MinGW\lib to libraries,pop it at the first position;add the absolute path C:\MinGW\include to C Includes,pop it at the first position(You may have a different path to install the MinGW,using your own path,the "C:\MinGW\" just an example)
+	Put the sa-email,sa-quiz,toy-email,toy-quiz the four files in the same folder with the source code.
+	Click execute->compile&run.After the compiling,the commander window will comes out and then you need to input some code to run the program.
+
+
+(B)    After the commander window comes out, you can follow the indications and make a choice.You can find the output data files in the same folder.The data files will be updated every time when you run the progrom.
+
+(C)Output of each algorithm for each input data set
+
+1.for the Decision Tree algorithm
+---------------------------------------------------------------------------
+This is Decision_tree algorithm.
+choose sa-file press 1
+choose toy-file press 2
+input:1
+the accuracy on the email file is:1.00
+the accuracy on the quiz file is:0.55
+---------------------------------------------------------------------------
+This is Decision_tree algorithm.
+choose sa-file press 1
+choose toy-file press 2
+input:2
+the accuracy on the email file is:1.00
+the accuracy on the quiz file is:1.00
+
+
+2.for the limited Decision_tree algorithm
+---------------------------------------------------------------------------
+This is a limited Decision_tree algorithm
+sa-file at most 2 level toy-file at most 3 level.
+choose sa-file press 1
+choose toy-file press 2
+input:1
+the accuracy on the email file is:0.95
+the accuracy on the quiz file is:0.64
+---------------------------------------------------------------------------
+This is a limited Decision_tree algorithm
+sa-file at most 2 level toy-file at most 3 level.
+choose sa-file press 1
+choose toy-file press 2
+input:2
+the accuracy on the email file is:0.90
+the accuracy on the quiz file is:0.83
+
+
+3.for the KNN algorithm
+---------------------------------------------------------------------------
+this is KNN algorithm
+choose sa-file press 1
+choose toy-file press 2
+input:1
+the accuracy on the quiz file is:0.55
+the accuracy on the email file is:0.62
+---------------------------------------------------------------------------
+this is KNN algorithm
+choose sa-file press 1
+choose toy-file press 2
+input:2
+the accuracy on the quiz file is:1.00
+the accuracy on the email file is:1.00
